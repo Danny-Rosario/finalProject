@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../../Users/danny/Downloads/Madog/Madog"
+		},
+		{
+			"path": "../../../../../../../../../Users/danny/Downloads/finalProject"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
